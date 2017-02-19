@@ -74,19 +74,19 @@ nav li a:hover {
   height: 400px; }
 
 .example-1 {
-  background-image: url(images/jumbotron/1.jpg);
+  background-image: url(images/jumbotron/jumbotron-1.jpg);
   background-position: 50% 60%; }
 
 .example-2 {
-  background-image: url(images/jumbotron/2.jpg);
+  background-image: url(images/jumbotron/jumbotron-2.jpg);
   background-position: 50% 76%; }
 
 .example-3 {
-  background-image: url(images/jumbotron/3.jpeg);
+  background-image: url(images/jumbotron/jumbotron-3.jpeg);
   background-position: 50% 40%; }
 
 .example-4 {
-  background-image: url(images/jumbotron/4.jpeg);
+  background-image: url(images/jumbotron/jumbotron-4.jpeg);
   background-position: 50% 70%; }
 
 .example-5 {
@@ -133,28 +133,28 @@ nav li a:hover {
     cursor: pointer; }
 
 .img-project-1 {
-  background-image: url(images/projects/1.jpeg); }
+  background-image: url(images/projects/projects-1.jpeg); }
 
 .img-project-2 {
-  background-image: url(images/projects/2.jpeg); }
+  background-image: url(images/projects/projects-2.jpeg); }
 
 .img-project-3 {
-  background-image: url(images/projects/3.jpeg); }
+  background-image: url(images/projects/projects-3.jpeg); }
 
 .img-project-4 {
-  background-image: url(images/projects/4.jpeg); }
+  background-image: url(images/projects/projects-4.jpeg); }
 
 .img-project-5 {
-  background-image: url(images/projects/5.jpeg); }
+  background-image: url(images/projects/projects-5.jpeg); }
 
 .img-project-6 {
-  background-image: url(images/projects/6.jpg); }
+  background-image: url(images/projects/projects-6.jpg); }
 
 .img-project-7 {
-  background-image: url(images/projects/7.jpeg); }
+  background-image: url(images/projects/projects-7.jpeg); }
 
 .img-project-8 {
-  background-image: url(images/projects/8.jpeg); }
+  background-image: url(images/projects/projects-8.jpeg); }
 
 /*	====== FOOTER ======  */
 .footer {
