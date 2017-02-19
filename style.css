@@ -77,23 +77,23 @@ nav li a:hover {
  	height: 400px;
 }
 .example-1 {
-	background-image: url(https://images.pexels.com/photos/28993/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/jumbotron/1.jpg);
  	background-position: 50% 60%;
 }
 .example-2 {
-	background-image: url(https://images.pexels.com/photos/16157/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/jumbotron/2.jpg);
  	background-position: 50% 76%;
 }
 .example-3 {
-	background-image: url(https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/jumbotron/3.jpeg);
  	background-position: 50% 40%;
 }
 .example-4 {
-	background-image: url(https://images.pexels.com/photos/80465/ford-mustang-auto-vehicle-80465.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/jumbotron/4.jpeg);
  	background-position: 50% 70%;
 }
 .example-5 {
-	background-image: url(https://images.pexels.com/photos/16156/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/start.jpg);
  	background-position: 50% 30%;
 }
 /*
@@ -125,28 +125,28 @@ nav li a:hover {
 	margin-bottom: 25px;
 }
 .img-project-1 {
-	background-image: url(https://static.pexels.com/photos/210019/pexels-photo-210019.jpeg);
+	background-image: url(images/projects/1.jpeg);
 }
 .img-project-2 {
-	background-image: url(https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/2.jpeg);
 }
 .img-project-3 {
-	background-image: url(https://images.pexels.com/photos/89784/bmw-suv-all-terrain-vehicle-fog-89784.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/3.jpeg);
 }
 .img-project-4 {
-	background-image: url(https://images.pexels.com/photos/193021/pexels-photo-193021.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/4.jpeg);
 }
 .img-project-5 {
-	background-image: url(https://images.pexels.com/photos/88630/pexels-photo-88630.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/5.jpeg);
 }
 .img-project-6 {
-	background-image: url(https://images.pexels.com/photos/8575/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/6.jpg);
 }
 .img-project-7 {
-	background-image: url(https://images.pexels.com/photos/112452/pexels-photo-112452.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/7.jpeg);
 }
 .img-project-8 {
-	background-image: url(https://images.pexels.com/photos/104836/speed-car-vehicle-drive-104836.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-image: url(images/projects/8.jpeg);
 }
 [class*="img-project-"]{
  	background-repeat: cover;
